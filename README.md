@@ -28,6 +28,7 @@ The dataset contains **149,116 transaction records** with **11 key attributes**:
 ### 2️⃣ **Data Modeling**
 - Linked **Transactions Table** with the **Date Table** via `transaction_date`.
 - Created measures to analyze sales trends and revenue share.
+![image](https://github.com/user-attachments/assets/2a92fdd8-2c02-43dc-a84c-1131415823cf)
 
 ### 3️⃣ **Exploratory Data Analysis (EDA)**
 - **Total Sales:** `$698,812` across **214,470 units sold**.
