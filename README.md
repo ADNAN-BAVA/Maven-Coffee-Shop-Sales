@@ -22,6 +22,7 @@ The dataset contains **149,116 transaction records** with **11 key attributes**:
 - **Text:** `store_location`, `product_category`, `product_type`, `product_detail`
 
 ## 🔍 Analysis Process
+Refer: Sales Performance Analysis of Maven Roasters REPORT.pdf
 ### 1️⃣ **Data Cleaning & Preparation**
 - Standardized product names and resolved inconsistencies.
 - Created a **Date Table** for time-based filtering.
