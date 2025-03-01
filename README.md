@@ -2,7 +2,6 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?style=for-the-badge&logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-Data%20Cleaning-green?style=for-the-badge&logo=microsoft-excel)
-![GitHub](https://img.shields.io/github/stars?style=social)
 
 ## 📌 Project Overview
 This project provides a **comprehensive analysis of sales performance** for **Maven Roasters**, a coffee shop franchise operating in **New York City** across three locations: **Lower Manhattan, Hell’s Kitchen, and Astoria**. The goal was to analyze transactional data over **six months (January – June 2023)** to uncover customer purchasing behaviors and optimize business operations.
