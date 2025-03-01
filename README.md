@@ -14,6 +14,7 @@ This project provides a **comprehensive analysis of sales performance** for **Ma
 
 ## 🗂 Dataset Overview
 Link: https://www.kaggle.com/datasets/ahmedabbas757/coffee-sales
+
 The dataset contains **149,116 transaction records** with **11 key attributes**:
 - **Integer:** `transaction_id`, `transaction_qty`, `store_id`, `product_id`
 - **Float:** `unit_price`
