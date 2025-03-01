@@ -28,7 +28,7 @@ The dataset contains **149,116 transaction records** with **11 key attributes**:
 ### 2️⃣ **Data Modeling**
 - Linked **Transactions Table** with the **Date Table** via `transaction_date`.
 - Created measures to analyze sales trends and revenue share.
-![image](https://github.com/user-attachments/assets/2a92fdd8-2c02-43dc-a84c-1131415823cf)
+<img src="https://github.com/user-attachments/assets/2a92fdd8-2c02-43dc-a84c-1131415823cf" width="600" height="300">
 
 ### 3️⃣ **Exploratory Data Analysis (EDA)**
 - **Total Sales:** `$698,812` across **214,470 units sold**.
@@ -45,10 +45,14 @@ The dataset contains **149,116 transaction records** with **11 key attributes**:
 
 ## 📈 Data Visualization
 An **interactive Power BI dashboard** was created to showcase:
+
 ✅ **KPI Cards** for performance tracking.  
 ✅ **Trend Charts** for monthly sales growth.  
 ✅ **Pie Charts** for store revenue contribution.  
-✅ **Bar Charts** for product category analysis.  
+✅ **Bar Charts** for product category analysis.
+
+<img src="https://github.com/user-attachments/assets/aad366d4-98b7-4dd0-aae9-142a974c515e" width="800" height="500">
+
 
 ## 📢 Business Recommendations
 💡 **Optimize Inventory**: Maintain high stock levels for best-sellers like Coffee & Tea.  
@@ -73,6 +77,6 @@ We welcome contributions! Feel free to **fork** this repository, submit **pull r
 This project is licensed under the **MIT License** – free to use and modify.
 
 ## 🌟 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammad-adnan-mohiyaddin/?trk=opento_sprofile_details)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/ADNAN-BAVA)
 
