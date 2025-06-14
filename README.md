@@ -45,7 +45,6 @@ Refer: Sales Performance Analysis of Maven Roasters REPORT.pdf
 ### 4️⃣ **Customer Purchasing Patterns**
 - **Peak Hours:** **7:00 AM – 11:00 AM** (highest transaction volume).
 - **Busiest Days:** **Mondays, Tuesdays, and Fridays**.
-- **Branded Clothing & Homeware** saw the highest growth **(+33.48%)**.
 
 ## 📈 Data Visualization
 An **interactive Power BI dashboard** was created to showcase:
